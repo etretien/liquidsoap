@@ -1,4 +1,6 @@
-# Liquidsoap
+# Liquidsoap (for radio)
+
+This is a fork of Liquidsoap project for using it in a public places music streaming service
 
 Liquidsoap is a swiss-army knife for multimedia streaming, notably
 used for netradios and webtvs. It has tons of features, it's free and it's
